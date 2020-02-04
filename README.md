@@ -7,6 +7,8 @@ Data obtained from [Eurostat](https://ec.europa.eu/eurostat).
 
 Semestrial project in data visualization, Winter 2019.
 
+Demo deployed on Heroku [here](https://europetraffic.herokuapp.com/).
+
 ## Setup
 
 1. Create Anaconda environment:
