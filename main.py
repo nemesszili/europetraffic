@@ -24,6 +24,7 @@ app = dash.Dash(
     external_stylesheets=external_css,
 )
 app.title = 'Traffic mortality'
+server = app.server
 
 layout = dict(
     width = 650,
